@@ -8,7 +8,7 @@
 - [Java集合](notes/Java集合.md) </br>
 - [Servlet/过滤器/JDBC](notes/Servlet.md) </br>
 - [MyBatis-Plus](notes/MyBatisPlus.md) </br>
-- [SpringBoot2](notes/SpringBoot2.md) </br>
+- [SpringBoot2启蒙](notes/SpringBoot2.md) </br>
 - [Zookeeper](notes/Zookeeper.md) </br>
 - [Dubbo](notes/Dubbo.md) </br>
 - [RabbitMQ](notes/RabbitMQ.md) </br>
