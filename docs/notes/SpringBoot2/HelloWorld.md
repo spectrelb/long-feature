@@ -13,13 +13,13 @@
 #### 1. 快速生成项目
 [Spring官网](https://start.spring.io/)提供了一个工具，我们打开后可以看到这样一个画面
 
-![图片](_media/SpringBoot2/helloworld.png)
+![图片](..//../PhperToJava/_media/SpringBoot2/helloworld.png)
 
 
 #### 2. 打开项目
 下载之后，解压之后看见如下目录，然后使用IDE（推荐使用[idea](https://www.jetbrains.com/idea/download)）打开即可~
 
-![图片](_media/SpringBoot2/helloworld0.png)
+![图片](..//../PhperToJava/_media/SpringBoot2/helloworld0.png)
 
 
 #### 3. 编辑项目
@@ -36,7 +36,7 @@ public class HelloController {
 }
 ```
 效果图如下：
-![图片](_media/SpringBoot2/helloworld1.png)
+![图片](..//../PhperToJava/_media/SpringBoot2/helloworld1.png)
 
 
 #### 4. 查看成功
