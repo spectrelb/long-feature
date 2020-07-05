@@ -1,0 +1,40 @@
+# 为什么要学习GO
+
+#### 一些公司都在使用Go语言
+1. 越来越多的公司都拥抱Go语言，最著名是Go语言由Google站台。
+2. 国内的比如滴滴，斗鱼直播，腾讯等等 都在使用Go语言。包括哔哩哔哩的后台也转向了Go 可见Go语言的受欢迎程度。
+<img width="400px" src="_media/Go/usegocompany.png">
+3. 一些杀手级应用都是基于Go,比如docker, kubernetes，etcd等
+
+#### 区块链未来大趋势
+###### 因为想转行做区块链相关的技术开发，区块链未来一定是个大方向，虽然现在还处于炒作的时期，但是随着人类的发展，有些东西必然是要走上解决人类需求上的，笃信未来会有属于区块链的一片市场！相应所需的人才必定水涨船高，每一个开发人员都不应该错过这样的机会。
+1. 区块链项目大部分都是基于Go开发的，国外的比如著名的[以太坊](https://github.com/ethereum/go-ethereum.git), [超级账本-fabric](https://github.com/hyperledger/fabric)
+2. 国内的比如[比原链](https://bytom.io/zh/),[唯链](https://www.vechain.com/cn/)等
+
+#### 已经有了4年的互联网开发经验，所以话不多说，干起来再说，准备从以下几方面入手
+
+1.  go基础知识
+
+    从网上找了一下Go语言学习之路，觉得还可以
+
+    -   [golang](https://www.kancloud.cn/liupengjie/go/570005)
+    -   [Go语言学习之路](https://www.liwenzhou.com/posts/Go/go_menu/)
+    -   [B站视频链接](https://space.bilibili.com/4638193/channel/detail?cid=66016)
+
+2.  go的web开发
+
+    -   [基于gin框架和gorm的web开发实战 ](https://www.bilibili.com/video/BV1gJ411p7xC?from=search&seid=17271204364476438146)
+
+3.  区块链知识
+
+    -   [区块链技术入门学习指引](https://learnblockchain.cn/2018/01/11/guide)
+    -   [史上最全的区块链学习资源大分享](https://bihu.com/article/67257)
+    -   [go 实现区块链(Bitcoin)](https://learnblockchain.cn/article/577)
+    -   [以太坊开发入门，完整入门篇](https://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
+
+
+
+
+
+
+

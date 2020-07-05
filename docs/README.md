@@ -1,14 +1,12 @@
-- [点击订阅面试进阶指南](https://xiaozhuanlan.com/CyC2018)
+- ##记录笔记
 
-## 👦 个人介绍
+### 👦 个人介绍
 - [个人介绍](notes/个人介绍.md) </br>
 
-## ☕️ G0
-- [Go基础](notes/Go基础.md) </br>
+### 👷🏽 技术
+- [Go](notes/Go.md) </br>
+- [区块链](notes/区块链.md) </br>
 
-## ☕️ Java
-- [SpringBoot2启蒙](notes/SpringBoot2.md) </br>
-- [Elasticsearch](notes/Elasticsearch.md) </br>
-
-## 💰️ 投资
-- [数字货币定投](notes/数字货币定投.md) </br>
+### 💰️ 投资
+- [数字货币定投](notes/DIGICCY/数字货币定投.md) </br>
+- [朋友数字货币定投](notes/DIGICCY/朋友数字货币定投.md) </br>

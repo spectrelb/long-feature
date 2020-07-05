@@ -1,8 +1,7 @@
-<img width="180px" src="_media/LogoMakr_1J56bI.png">
+<img width="400px" src="_media/Go/gopher.png">
 
-# 守破离：勤于守，勇于破，善于离
+# GO，区块链，数字货币投资......
 
-- 本项目包含了Go,区块链的知识点，希望能够帮助大家
+- 对于一门不懂的技术，找一份靠谱的资料，对着资料敲一遍代码，不懂的再问google，最后在将其用到实际项目，这门技术就算是初步掌握了，当然精通还得再下点功夫。
 
-[GitHub](https://github.com/spectrelb/PhperToJava.git)
-[Get Started](README.md)
+[人生苦短，Let's Go](README.md)
