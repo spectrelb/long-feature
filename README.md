@@ -8,4 +8,4 @@
 
 ### 扫码关注
 
-<img width="400px" src="docs/_media/longfeature.png">
+<img width="400px" src="/docs/_media/longfeature.png">
