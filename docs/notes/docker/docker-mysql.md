@@ -31,6 +31,8 @@ default-character-set=utf8
 ```text
 docker run -d -p 3306:3306 --restart=always --name mysql -e MYSQL_ROOT_PASSWORD=123456 -v=/Applications/www/docker/data/mysql/config/my.cnf:/etc/mysql/my.cnf -v=/Applications/www/docker/data/mysql/data:/var/lib/mysql mysql:5.7
 
+docker ps -a
+
 参数详解：
 -d创建守护式容器，创建完成后，容器会在后台运行
 -p设置宿主机和容器端口的映射
