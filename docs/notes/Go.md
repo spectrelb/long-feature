@@ -2,6 +2,6 @@
 
 ## Go学习
 
-- [《为什么要学习GO?》](notes/Go/为什么要学习Go.md)
+- [《为什么要学习GO?》](notes/go/为什么要学习Go.md)
 
 
