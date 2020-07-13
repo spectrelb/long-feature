@@ -6,6 +6,7 @@
 ### Go基础
 - [入门三板斧](notes/go/20200712入门三板斧.md)
 - [类型](notes/go/20200712数据类型.md)
+- [流程控制](notes/go/20200713流程控制.md)
 - [函数](notes/go/函数.md)
 - [接口](notes/go/接口.md)
 - [应用](notes/go/接口.md)

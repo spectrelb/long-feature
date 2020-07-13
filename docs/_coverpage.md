@@ -1,4 +1,4 @@
-<img width="400px" src="_media/Go/gopher.png">
+<img width="400px" src="_media/go/gopher.png">
 
 # GO，区块链，数字货币投资......
 
