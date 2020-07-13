@@ -2,4 +2,4 @@
 
 ## Elasticsearch学习
 
-- [同义词](notes/Elasticsearch/同义词.md)
+- [同义词](notes/elasticsearch/同义词.md)

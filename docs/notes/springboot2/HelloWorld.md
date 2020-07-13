@@ -41,7 +41,7 @@ public class HelloController {
 
 #### 4. 查看成功
 项目默认启动端口是8080，在浏览器输入如下地址访问，可以看见输出的内容
-```Java
+```text
 http://127.0.0.1:8080/test/hello?name=bobo
 ```
 
