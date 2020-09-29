@@ -13,7 +13,7 @@
   - [备忘基础sql查询](notes/mysql/备忘基础sql查询.md)
 
 # 💰️ 投资
-- [数字货币投资](notes/digiccy/数字货币定投.md) </br>
+- [投资](notes/digiccy/数字货币定投.md) </br>
 
 # 👉 其他
 - [了解上海](notes/other/了解上海.md) </br>
