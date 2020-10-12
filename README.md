@@ -24,4 +24,4 @@ docsify serve docs
 
 ### 扫码关注
 
-<img width="400px" src="/docs/_media/longfeature.png">
+![扫码关注](./docs/_media/longfeature.png)

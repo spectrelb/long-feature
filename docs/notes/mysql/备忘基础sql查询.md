@@ -1,6 +1,26 @@
 # 备忘基础sql查询
 
 
+##### 洗数据常用到的一些语法
+```mysql
+INSERT INTO `order`(
+`id`,
+`type`,
+`status`,
+`create_time`,
+`update_time`
+) SELECT
+`id`,
+case type
+when 'a' then '李四'
+else '张三'
+end,
+IF(status = 1, 0, 1) as status,
+date_add(create_time, interval 7 day),
+`update_time`
+FROM `order_copy`;
+```
+
 ##### 简单查询
 ```mysql
 -- 查询 users 表包含所有列的所有行
@@ -170,7 +190,6 @@ SELECT * INTO `usersCopy` FROM `users`;
 -- 创建新表 usersCopy 并将 users 复制过去
 CREATE TABLE `usersCopy` AS SELECT * FROM `users`;
 ```
-
 
 
 ##### 修改
