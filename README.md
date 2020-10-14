@@ -22,6 +22,6 @@ npm i docsify-cli -g
 docsify serve docs
 ```
 
-### 扫码关注
+### 扫码查看
 
-![扫码关注](./docs/_media/longfeature.png)
+![扫码查看](./docs/_media/longfeature.png)
